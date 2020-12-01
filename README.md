@@ -21,17 +21,17 @@
 
 <hr>
 
-### Spotify Playing 🎧
+### *Spotify Playing 🎧*
 [<img src="https://media.discordapp.net/attachments/768459183594274838/783474702286454844/unknown.png" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/track/6ZKCcRjkXXUk67OfqS2fJT?si=70WBHcE2QgOAz9LlU4urwQ)
 
-### Conecte-se comigo em:
+### *Conecte-se comigo em:*
 
 [<img align="left" alt="https://github.com/srJohn" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]
 [<img align="left" alt="Lives | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />]
 
 <br />
 
-### Linguagens & Tolls:
+### *Linguagens & Tolls:*
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -51,17 +51,9 @@
 
 ---
 
-### ⚡ Recent Github Activity
-  
-<!--START_SECTION:activity-->
-1. ❗️ Opened issue [#21](https://github.com/Rebzzel/kiero/issues/21) in [Rebzzel/kiero](https://github.com/Rebzzel/kiero)
-2. 🗣 Commented on [#3512](https://github.com/ocornut/imgui/issues/3512) in [ocornut/imgui](https://github.com/ocornut/imgui)
-3. ❗️ Opened issue [#3512](https://github.com/ocornut/imgui/issues/3512) in [ocornut/imgui](https://github.com/ocornut/imgui)
-4. ❗️ Opened issue [#43](https://github.com/MrPotatoBobx/FetchCord/issues/43) in [MrPotatoBobx/FetchCord](https://github.com/MrPotatoBobx/FetchCord)
-5. ❗️ Opened issue [#1937](https://github.com//MaterialDesignInXAML/MaterialDesignInXamlToolkit/issues/1937) in [MaterialDesignInXAML/MaterialDesignInXamlToolkit](https://github.com//MaterialDesignInXAML/MaterialDesignInXamlToolkit)
-<!--END_SECTION:activity-->
+<img align="right" alt="GIF" src="https://media.discordapp.net/attachments/768459183594274838/783468542997037056/15067311691810c82905b660c3390927.gif" />
 
-### ⚡ Github Stats
+### ⚡ *Github Stats*
 
 <a href="https://github.com/srJohn">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=John&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=232323" alt="srJohn's stats" />
