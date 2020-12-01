@@ -1,33 +1,33 @@
-### Hi there, I'm [srJohn][website] 👋
+### Oii, Me chamo [John][website] 👋
 
-[![Website](https://img.shields.io/website?label=ALEHACKsp.github.io&style=for-the-badge&url=https%3A%2F%2FALEHACKsp.github.io)](https://github.com/ALEHACKsp)
-[![Github Follow](https://img.shields.io/github/followers/ALEHACKsp?color=1DA1F2&logo=github&label=Follow&style=for-the-badge)](https://github.com/ALEHACKsp)
-[![Subscribe](https://img.shields.io/badge/SUBSCRIBE-LIVESTREAMS-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/watch?v=gqvrByO9yNU&ab_channel=AleMaoGamES)
+[![Website](https://img.shields.io/website?label=ALEHACKsp.github.io&style=for-the-badge&url=https%3A%2F%2FALEHACKsp.github.io)](https://github.com/srJohn)
+[![Github Follow](https://img.shields.io/github/followers/ALEHACKsp?color=1DA1F2&logo=github&label=Follow&style=for-the-badge)](https://github.com/srJohn)
+[![Subscribe](https://img.shields.io/badge/SUBSCRIBE-LIVESTREAMS-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/channel/UCX-Okq7AuHa-5I79odVtHVg)
 
-## I'm a Student, Developer!
+## Sou um estudante de Programação e Pentest
 
-- 🔭 I’m currently working on a New Projects In C++
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020-2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love YouTube and Programming
+- 🔭 Atualmente estou trabalhando em projetos em c++ e c#
+- 🌱 E estou estudando Pentest
+- 👯 Procuro sempre aprender mais e mais sobre assuntos de programação
+- 🥅 Sou novato no github 
+- ⚡ Amo jogar e programar
 
-## ⚡ Find  Me on
+## ⚡ Me encontre em:
 
 <div align='left' style="display: flex; justify-content: space-between;">
 	<a href='#'>
-	<img src=https://img.shields.io/badge/Discord-+InCOD3(VICTOR)%233940-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=30&labelColor=000' alt='Discord = = = +InCOD3(VICTOR)#3940'>
+	<img src=https://img.shields.io/badge/Discord-+InCOD3(VICTOR)%233940-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=30&labelColor=000' alt='Discord = = = John.#0101'>
 	</a>
 </div>
 
 <hr>
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/21ipgwxdxoxe37yfbxt2pvcea)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/track/6ZKCcRjkXXUk67OfqS2fJT?si=hh4iaixHRi-IXahPzsk-Ig)
 
 ### Connect with me:
 
-[<img align="left" alt="https://github.com/ALEHACKsp" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]
+[<img align="left" alt="https://github.com/srJohn" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]
 [<img align="left" alt="Livestreams | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />]
 
 <br />
@@ -64,8 +64,8 @@
 
 ### ⚡ Github Stats
 
-<a href="https://github.com/ALEHACKsp">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ALEHACKsp&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=232323" alt="ALEHACKsp's stats" />
+<a href="https://github.com/srJohn">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=John&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=232323" alt="John's stats" />
 <a href="https://github.com/ALEHACKsp?tab=repositories">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALEHACKsp&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=232423">
 </h2>
@@ -81,7 +81,7 @@ Visitors<br>
 <br>
 <br>  
 
-[website]: https://github.com/ALEHACKsp
-[youtube]: https://www.youtube.com/user/iknowjesusnow/featured?view_as=subscriber
+[website]: https://github.com/srJohn
+[youtube]: https://www.youtube.com/channel/UCX-Okq7AuHa-5I79odVtHVg
 
 
