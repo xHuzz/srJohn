@@ -67,9 +67,9 @@
 ### ⚡ Github Stats
 
 <a href="https://github.com/srJohn">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=John&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=232323" alt="John's stats" />
-<a href="https://github.com/ALEHACKsp?tab=repositories">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALEHACKsp&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=232423">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=John&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=232323" alt="srJohn's stats" />
+<a href="https://github.com/srJohn?tab=repositories">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srJohn&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=232423">
 </h2>
 <br>
 <br>
