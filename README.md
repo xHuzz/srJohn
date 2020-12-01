@@ -1,9 +1,6 @@
-### Oii, Me chamo [John][website] 👋
+#                                                                    *JOHN*
 
 <img align="right" alt="GIF" src="https://media.discordapp.net/attachments/768459183594274838/783468542997037056/15067311691810c82905b660c3390927.gif" />
-
-[![Siga no Github](https://img.shields.io/github/followers/srJohn?color=1DA1F2&logo=github&label=SIGA&style=for-the-badge)](https://github.com/srJohn)
-[![Inscreva-se](https://img.shields.io/badge/YOUTUBE-VIDEOS-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/channel/UCX-Okq7AuHa-5I79odVtHVg)
 
 ## Sou um estudante de Programação e Pentest
 
