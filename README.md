@@ -2,7 +2,7 @@
 
 [![EU](https://media.discordapp.net/attachments/768459183594274838/783451773989552148/a-liberdade-guiando-povo-pintura-eugene-delacroix-5b4cd89a2aac0.jpg)](https://github.com/srJohn)
 
-[![Siga no Github](https://img.shields.io/github/followers/srJohn?color=1DA1F2&logo=github&label=Follow&style=for-the-badge)](https://github.com/srJohn)
+[![Siga no Github](https://img.shields.io/github/followers/srJohn?color=1DA1F2&logo=github&label=SIGA&style=for-the-badge)](https://github.com/srJohn)
 [![Inscreva-se](https://img.shields.io/badge/YOUTUBE-VIDEOS-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/channel/UCX-Okq7AuHa-5I79odVtHVg)
 
 ## Sou um estudante de Programação e Pentest
