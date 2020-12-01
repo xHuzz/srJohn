@@ -51,12 +51,14 @@
 
 ---
 
-<img align="right" alt="GIF" src="https://media.discordapp.net/attachments/768459183594274838/783468542997037056/15067311691810c82905b660c3390927.gif" />
+<img align="center" alt="GIF" src="https://media.discordapp.net/attachments/768459183594274838/783468542997037056/15067311691810c82905b660c3390927.gif" />
+
+
 
 ### ⚡ *Github Stats*
 
 <a href="https://github.com/srJohn">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=John&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=232323" alt="srJohn's stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=srJohn&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=232323" alt="srJohn's stats" />
 <a href="https://github.com/srJohn?tab=repositories">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srJohn&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=232423">
 </h2>
