@@ -10,7 +10,7 @@
 - 🥅 Sou novato no github 
 - ⚡ Amo jogar e programar
 
-## ⚡ Me encontre em:
+## ⚡ *Me encontre em:*
 
 <div align='left' style="display: flex; justify-content: space-between;">
 	<a href='#'>
