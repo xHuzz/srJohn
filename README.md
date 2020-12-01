@@ -23,7 +23,7 @@
 <hr>
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/track/6ZKCcRjkXXUk67OfqS2fJT?si=hh4iaixHRi-IXahPzsk-Ig)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/album/73x3ACFGvWOBMH3b48qbx4?si=-O1wigj5QJSHvUgw0Vm18g)
 
 ### Connect with me:
 
