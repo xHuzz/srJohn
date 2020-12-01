@@ -1,9 +1,9 @@
 ### Oii, Me chamo [John][website] 👋
 
-[![Website](https://media.discordapp.net/attachments/768459183594274838/783451773989552148/a-liberdade-guiando-povo-pintura-eugene-delacroix-5b4cd89a2aac0.jpg)](https://github.com/srJohn)
+[![EU](https://media.discordapp.net/attachments/768459183594274838/783451773989552148/a-liberdade-guiando-povo-pintura-eugene-delacroix-5b4cd89a2aac0.jpg)](https://github.com/srJohn)
 
-[![Github Follow](https://img.shields.io/github/followers/ALEHACKsp?color=1DA1F2&logo=github&label=Follow&style=for-the-badge)](https://github.com/srJohn)
-[![Subscribe](https://img.shields.io/badge/SUBSCRIBE-LIVESTREAMS-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/channel/UCX-Okq7AuHa-5I79odVtHVg)
+[![Siga no Github](https://img.shields.io/github/followers/ALEHACKsp?color=1DA1F2&logo=github&label=Follow&style=for-the-badge)](https://github.com/srJohn)
+[![Inscreva-se](https://img.shields.io/badge/SUBSCRIBE-LIVESTREAMS-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/channel/UCX-Okq7AuHa-5I79odVtHVg)
 
 ## Sou um estudante de Programação e Pentest
 
@@ -30,7 +30,7 @@
 ### Conecte-se comigo em:
 
 [<img align="left" alt="https://github.com/srJohn" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]
-[<img align="left" alt="Livestreams | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />]
+[<img align="left" alt="Lives | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />]
 
 <br />
 
