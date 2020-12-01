@@ -26,14 +26,14 @@
 ### Spotify Playing 🎧
 [<img src="https://i.scdn.co/image/ab67616d00001e0289b5d6a4d6e822c3adb76815" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/track/6ZKCcRjkXXUk67OfqS2fJT?si=70WBHcE2QgOAz9LlU4urwQ)
 
-### Connect with me:
+### Conecte-se comigo em:
 
 [<img align="left" alt="https://github.com/srJohn" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]
 [<img align="left" alt="Livestreams | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />]
 
 <br />
 
-### Languages and Tools:
+### Linguagens & Tolls:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
