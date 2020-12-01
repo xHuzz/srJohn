@@ -1,6 +1,6 @@
 ### Oii, Me chamo [John][website] 👋
 
-[![Website](https://img.shields.io/website?label=ALEHACKsp.github.io&style=for-the-badge&url=https%3A%2F%2FALEHACKsp.github.io)](https://github.com/srJohn)
+[![Website](https://img2.gratispng.com/20180628/wpy/kisspng-github-social-media-computer-icons-logo-android-5b34849064c384.6953108415301684644127.jpg)](https://github.com/srJohn)
 [![Github Follow](https://img.shields.io/github/followers/ALEHACKsp?color=1DA1F2&logo=github&label=Follow&style=for-the-badge)](https://github.com/srJohn)
 [![Subscribe](https://img.shields.io/badge/SUBSCRIBE-LIVESTREAMS-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/channel/UCX-Okq7AuHa-5I79odVtHVg)
 
