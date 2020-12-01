@@ -1,5 +1,6 @@
-### oie 👋
 
-### 🔭 Estou atualmente estudando pentest
-### 💬 Converse comigo sobre programação ou pentest
+### 🎩 > Mon nom est John
 
+### 💼 > Je suis un programmeur C ++ et C # 
+
+### 📚 > et étudie au pentest 
