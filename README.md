@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://media.discordapp.net/attachments/768459183594274838/783470557445619772/GlisteningAgitatedKoodoo-small.gif?width=441&height=572" />
 
-## Sou um estudante de Programação e Pentest
+## *Sou um estudante de Programação e Pentest*
 
 - 🔭 Atualmente estou trabalhando em projetos em c++ e c#
 - 🌱 E estou estudando Pentest
