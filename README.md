@@ -25,7 +25,7 @@
 <hr>
 
 ### Spotify Playing 🎧
-[<img src="https://i.scdn.co/image/ab67616d00001e0289b5d6a4d6e822c3adb76815" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/track/6ZKCcRjkXXUk67OfqS2fJT?si=70WBHcE2QgOAz9LlU4urwQ)
+[<img src="https://media.discordapp.net/attachments/768459183594274838/783459086846263306/unknown.png" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/track/6ZKCcRjkXXUk67OfqS2fJT?si=70WBHcE2QgOAz9LlU4urwQ)
 
 ### Conecte-se comigo em:
 
