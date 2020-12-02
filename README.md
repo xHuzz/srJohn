@@ -1,6 +1,6 @@
 #                                                                    *JOHN*
 
-<img align="right" alt="GIF" src="https://media.discordapp.net/attachments/768459183594274838/783470557445619772/GlisteningAgitatedKoodoo-small.gif?width=441&height=572" />
+<img align="right" alt="GIF" src="https://media.discordapp.net/attachments/779470971521859605/783712531197853696/68747470733a2f2f7062732e7477696d672e636f6d2f70726f66696c655f696d616765732f31303937353131353235343739.png" />
 
 ## *Sou um estudante de Programação e Pentest*
 
