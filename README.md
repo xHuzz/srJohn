@@ -1,7 +1,7 @@
 ###                                   *JOHN*
-
-<br/>
 ## ────────────── ──────────────
+<br/>
+
 <p>
 Estudante de programação e interessado em áreas de pentest
 <br/>
