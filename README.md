@@ -56,3 +56,5 @@ Quem quiser olhar meus repositórios irei ficar extremamente agradecido ❤️.
 ## ────────────── ──────────────
 
    <img align="center" alt="GIF" src="https://i.pinimg.com/originals/01/e5/81/01e58179ae8a61c083672269a00a6ffe.gif" />
+
+##  ────────────── ──────────────
