@@ -12,6 +12,8 @@ Quem quiser olhar meus repositórios irei ficar extremamente agradecido ❤️.
 
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/a2/11/3e/a2113e5c802bb516a97cb2d3b9865018.gif" />
+
+
   
 ### ✨ Fatores
 
@@ -22,6 +24,8 @@ Quem quiser olhar meus repositórios irei ficar extremamente agradecido ❤️.
 
 - 🎿 Hobbies : Gosto de jogar online e ler alguns livros
 - 📫 Discord: John.#0101
+
+
 
 ### 🛠️ Languages and Tools:
 
@@ -46,5 +50,7 @@ Quem quiser olhar meus repositórios irei ficar extremamente agradecido ❤️.
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Gitlab](https://img.shields.io/badge/-Gitlab-black?style=flat-square&logo=gitlab)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
+
+
 
    <img align="center" alt="GIF" src="https://i.pinimg.com/originals/01/e5/81/01e58179ae8a61c083672269a00a6ffe.gif" />
