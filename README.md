@@ -1,4 +1,4 @@
-###                                   *jOHN*
+###                                   *JOHN*
 
 <br/>
 
@@ -47,4 +47,4 @@ Quem quiser olhar meus repositórios irei ficar extremamente agradecido ❤️.
 ![Gitlab](https://img.shields.io/badge/-Gitlab-black?style=flat-square&logo=gitlab)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
 
-   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/01/e5/81/01e58179ae8a61c083672269a00a6ffe.gif" />
+   <img align="center" alt="GIF" src="https://i.pinimg.com/originals/01/e5/81/01e58179ae8a61c083672269a00a6ffe.gif" />
