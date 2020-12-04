@@ -10,6 +10,7 @@ Atualmente desenvolvendo aplicações em c++ e c#
 Quem quiser olhar meus repositórios irei ficar extremamente agradecido ❤️.
 </p>
 
+## ────────────── ──────────────
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/a2/11/3e/a2113e5c802bb516a97cb2d3b9865018.gif" />
 
