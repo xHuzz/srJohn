@@ -48,5 +48,6 @@ Quem quiser olhar meus repositórios irei ficar extremamente agradecido ❤️.
 ![Gitlab](https://img.shields.io/badge/-Gitlab-black?style=flat-square&logo=gitlab)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
 
+[<img src="https://now-playing-codeSTACKr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/invisigoth59)
 
    <img align="center" alt="GIF" src="https://i.pinimg.com/originals/01/e5/81/01e58179ae8a61c083672269a00a6ffe.gif" />
