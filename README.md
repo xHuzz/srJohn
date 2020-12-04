@@ -1,75 +1,50 @@
-#                                                                    *JOHN*
+###                                   *jOHN*
 
-<img align="right" alt="GIF" src="https://media.discordapp.net/attachments/779470971521859605/783712531197853696/68747470733a2f2f7062732e7477696d672e636f6d2f70726f66696c655f696d616765732f31303937353131353235343739.png" />
+<br/>
 
-## *Sou um estudante de Programação e Pentest*
-
-- 🔭 Atualmente estou trabalhando em projetos em c++ e c#
-- 🌱 E estou estudando Pentest
-- 👯 Procuro sempre aprender mais e mais sobre assuntos de programação
-- 🥅 Sou novato no github 
-- ⚡ Amo jogar e programar
-
-## ⚡ *Me encontre em:*
-
-<div align='left' style="display: flex; justify-content: space-between;">
-	<a href='#'>
-	<img src=https://img.shields.io/badge/Discord-John.%230101-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=30&labelColor=000' 
-	alt='Discord = = = John.#0101'>
-	</a>
-</div>
-
-<hr>
-
-### *Spotify Playing 🎧*
-[<img src="https://media.discordapp.net/attachments/768459183594274838/783474702286454844/unknown.png" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/track/6ZKCcRjkXXUk67OfqS2fJT?si=70WBHcE2QgOAz9LlU4urwQ)
-
-### *Conecte-se comigo em:*
-
-[<img align="left" alt="https://github.com/srJohn" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]
-[<img align="left" alt="Lives | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />]
-
-<br />
-
-### *Linguagens & Tolls:*
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br />
-<br />
-
----
-
-<img align="center" alt="GIF" src="https://media.discordapp.net/attachments/768459183594274838/783468542997037056/15067311691810c82905b660c3390927.gif" />
+<p>
+Estudante de programação e interessado em áreas de pentest
+<br/>
+Atualmente desenvolvendo aplicações em c++ e c#
+<br/>  
+Quem quiser olhar meus repositórios irei ficar extremamente agradecido ❤️.
+</p>
 
 
+  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/a2/11/3e/a2113e5c802bb516a97cb2d3b9865018.gif" />
+  
+### ✨ Fatores
 
-### ⚡ *Github Stats*
+- 👨🏽‍💻 Atualmente fazendo cursos de programação
+- 🌱 Aprendendo sql
 
-<a href="https://github.com/srJohn">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=srJohn&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=232323" alt="srJohn's stats" />
-<a href="https://github.com/srJohn?tab=repositories">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srJohn&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=232423">
-</h2>
-<br>
-<br>
-</a>
-<h3 align="center"> 
-<br>
-<br>
+- 💬 Converse comigo sobre c++ ou c# 😜😌)
 
-[website]: https://github.com/srJohn
-[youtube]: https://www.youtube.com/channel/UCX-Okq7AuHa-5I79odVtHVg
+- 🎿 Hobbies : Gosto de jogar online e ler alguns livros
+- 📫 Discord: John.#0101
 
+### 🛠️ Languages and Tools:
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=expressjs)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Socket.io](https://img.shields.io/badge/-Socket-black?style=flat-square&logo=socket.io)
+![Meteor](https://img.shields.io/badge/-Meteor-black?style=flat-square&logo=Meteor)
+![Next.js](https://img.shields.io/badge/-Next-black?style=flat-square&logo=Next.js)
+![Material_UI](https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=material-ui)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
+![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c)
+![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
+![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
+![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![Gitlab](https://img.shields.io/badge/-Gitlab-black?style=flat-square&logo=gitlab)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
+
+   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/01/e5/81/01e58179ae8a61c083672269a00a6ffe.gif" />
