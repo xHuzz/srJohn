@@ -27,7 +27,6 @@ Quem quiser olhar meus repositórios irei ficar extremamente agradecido ❤️.
 - 🎿 Hobbies : Gosto de jogar online e ler alguns livros
 - 📫 Discord: John.#0101
 
-## ────────────── ──────────────
 
 ### 🛠️ *Languages and Tools:*
 
