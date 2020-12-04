@@ -15,7 +15,7 @@ Quem quiser olhar meus repositórios irei ficar extremamente agradecido ❤️.
 
 
   
-### ✨ Fatores
+### ✨ *Fatores*
 
 - 👨🏽‍💻 Atualmente fazendo cursos de programação
 - 🌱 Aprendendo sql
@@ -27,7 +27,7 @@ Quem quiser olhar meus repositórios irei ficar extremamente agradecido ❤️.
 
 
 
-### 🛠️ Languages and Tools:
+### 🛠️ *Languages and Tools:*
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
